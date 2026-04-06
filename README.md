@@ -9,6 +9,17 @@ The purpose of this project is to understand how different regression techniques
 
 ## 📂 Models Included
 
+## 📁 Project Files
+
+* **simple_linear_regression.ipynb**
+  Contains implementation of Simple Linear Regression.
+
+* **multiple_linear_regression.ipynb**
+  Contains implementation of Multiple Linear Regression.
+
+* **polynomial_regression.ipynb**
+  Contains implementation of Polynomial Regression.
+
 ### 1️⃣ Simple Linear Regression
 
 This model is used to predict a value based on a single independent variable.
