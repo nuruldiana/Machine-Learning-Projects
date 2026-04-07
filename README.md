@@ -36,7 +36,7 @@ This model is used when there are multiple independent variables affecting the o
 
 Example:
 
-* Predicting results based on more than one input variable.
+* Predicting profits based on more than one input variable (R&D Spend, Administration, Marketing Spend,State).
 
 ---
 
@@ -46,7 +46,7 @@ This model is used when the relationship between variables is not linear.
 
 Example:
 
-* Predicting values when data follows a curved pattern.
+* Predicting values when data follows a curved pattern between level of position and salary.
 
 ---
 
